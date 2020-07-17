@@ -30,3 +30,4 @@ Java-Snake-Game.iml
 
 # Ignore Gradle build output directory
 build
+score.txt
